@@ -44,7 +44,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `nama`, `role`, `availability`, `age`, `location`, `years_experience`, `email`) VALUES
-(1, 'Alif Nandar Lesmana', 'UI Designer', 'Full Time', 17, 'Jakarta Pusat', '5', 'user@gmail.com');
+(1, 'Nanda Riansyah', 'Front End Designer', 'Full Time', 17, 'Jakarta Pusat', '5', 'user@gmail.com');
 
 --
 -- Indexes for dumped tables

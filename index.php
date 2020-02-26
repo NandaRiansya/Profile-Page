@@ -25,7 +25,7 @@
 
     <section id="box-profile">
         <div class="img-profile">
-            <div class="photo" style="background-image: url(assets/img/profile.jpg);"></div>
+            <div class="photo" style="background-image: url(assets/img/nanda.jpg);"></div>
         </div>
         <div class="description">
             <h1 id="pName"><?php echo $nama; ?></h1>
@@ -59,7 +59,7 @@
 
     <section id="input-form">
         <form method="#" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-        <div class="form">
+        <div class="form">  
                 <label>Id User</label>
                 <input id="inpIdUser" type="text" name="id_user" value="<?php echo $id; ?>">
             <div class="form">

@@ -14,8 +14,8 @@
     ) VALUE 
     (
         '1',
-        'Alif Nandar Lesmana',
-        'UI Designer',
+        'Nanda Riansyah',
+        'Front End Designer',
         'Full Time',
         '17',
         'Jakarta Pusat',
